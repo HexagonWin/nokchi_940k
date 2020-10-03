@@ -9,18 +9,18 @@
 /* ICS blue = #33B5E5 = rgb(51, 181, 229) */
 
 body {
-	background-color: #000000;
+	background-color: #060606;
 	color: white;
 }
 body:before {
-	    filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#272D33');
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#272D33')";
-	background-image: -webkit-gradient(linear, left top, left bottom, from(#000000), to(#272D33));
-	background-image: -webkit-linear-gradient(#000000, #272D33);
-	background-image:    -moz-linear-gradient(#000000, #272D33);
-	background-image:     -ms-linear-gradient(#000000, #272D33);
-	background-image:      -o-linear-gradient(#000000, #272D33);
-	background-image:         linear-gradient(#000000, #272D33);
+	    filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#060606', endColorstr='#060606');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#060606', endColorstr='#060606')";
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#060606), to(#060606));
+	background-image: -webkit-linear-gradient(#060606, #060606);
+	background-image:    -moz-linear-gradient(#060606, #060606);
+	background-image:     -ms-linear-gradient(#060606, #060606);
+	background-image:      -o-linear-gradient(#060606, #060606);
+	background-image:         linear-gradient(#060606, #060606);
 }
 
 button, *[role="button"],
